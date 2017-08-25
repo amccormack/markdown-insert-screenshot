@@ -1,6 +1,6 @@
 {
   "name": "kali-markdown-insert-screenshot",
-  "main": "./lib/markdown-insert-screenshot",
+  "main": "./lib/kali-markdown-insert-screenshot",
   "version": "1.2.0",
   "description": "A lightweight utility for saving interactive screenshots to relative file paths",
   "keywords": [
@@ -8,7 +8,7 @@
     "screenshot"
   ],
   "activationCommands": {
-    "atom-workspace": "markdown-insert-screenshot:screenshot-to-relative-destination"
+    "atom-workspace": "kali-markdown-insert-screenshot:screenshot-to-relative-destination"
   },
   "repository": {
     "type": "git",

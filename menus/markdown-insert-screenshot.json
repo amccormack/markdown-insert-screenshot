@@ -3,7 +3,7 @@
     "atom-text-editor": [
       {
         "label": "Take screenshot and save to relative destination",
-        "command": "markdown-insert-screenshot:screenshot-to-relative-destination"
+        "command": "kali-markdown-insert-screenshot:screenshot-to-relative-destination"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "markdown-insert-screenshot",
+          "label": "kali-markdown-insert-screenshot",
           "submenu": [
             {
               "label": "Take screenshot and save to relative destination",
-              "command": "markdown-insert-screenshot:screenshot-to-relative-destination"
+              "command": "kali-markdown-insert-screenshot:screenshot-to-relative-destination"
             }
           ]
         }

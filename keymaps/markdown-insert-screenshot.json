@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "cmd-@": "kali-markdown-insert-screenshot:screenshot-to-relative-destination"
+    "alt-i": "kali-markdown-insert-screenshot:screenshot-to-relative-destination"
   }
 }
