@@ -1,7 +1,7 @@
 {
-  "name": "markdown-insert-screenshot",
+  "name": "kali-markdown-insert-screenshot",
   "main": "./lib/markdown-insert-screenshot",
-  "version": "0.2.0",
+  "version": "1.2.0",
   "description": "A lightweight utility for saving interactive screenshots to relative file paths",
   "keywords": [
     "Markdown",
@@ -12,9 +12,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cavaunpeu/markdown-insert-screenshot.git"
+    "url": "git+https://github.com/amccormack/markdown-insert-screenshot.git"
   },
-  "author": "William Wolf",
+  "author": "Alex McCormack",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
@@ -22,5 +22,5 @@
   "dependencies": {
     "shelljs": "^0.7.7"
   },
-  "homepage": "https://github.com/cavaunpeu/markdown-insert-screenshot"
+  "homepage": "https://github.com/amccormack/markdown-insert-screenshot"
 }
